@@ -1,0 +1,5 @@
+crear un repositorio de git con git init se crea una carpeta oculta
+llamada .git
+
+en la carpeta oculta .git  es donde va a estar la base de datos de los cambios
+atomicos que se hagan al sistema.

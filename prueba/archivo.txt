@@ -3,3 +3,7 @@ llamada .git
 
 en la carpeta oculta .git  es donde va a estar la base de datos de los cambios
 atomicos que se hagan al sistema.
+
+git lo que se puede editar es texto plano
+permite guardar archivos binarios pero no es tan preciso como si lo es con un texto 
+plano
